@@ -1,0 +1,37 @@
+credentials:
+  usernames:
+    tracilim:
+      email: traci.lim@singlife.com
+      name: Traci Lim
+      password: $2b$12$YwJKPmekLrInG/amGdK8geyiy8D75kQV6Swrt/P8CdDMDT0RhpNtO
+    chelseatang:
+      email: chelsea_tang@singlife.com
+      name: Chelsea
+      password: $2b$12$YwJKPmekLrInG/amGdK8geyiy8D75kQV6Swrt/P8CdDMDT0RhpNtO
+    bessysaw:
+      email: bessy_saw@singlife.com
+      name: Bessy
+      password: $2b$12$YwJKPmekLrInG/amGdK8geyiy8D75kQV6Swrt/P8CdDMDT0RhpNtO
+    ghassen:
+      email: ghassen_chniti@singlife.com
+      name: Ghassen
+      password: $2b$12$YwJKPmekLrInG/amGdK8geyiy8D75kQV6Swrt/P8CdDMDT0RhpNtO
+    kashyap:
+      email: kashyap.gundlapalli@singlife.com
+      name: Kashyap
+      password: $2b$12$YwJKPmekLrInG/amGdK8geyiy8D75kQV6Swrt/P8CdDMDT0RhpNtO
+    nithya:
+      email: nithya_krishnamoorthy@singlife.com
+      name: Nithya
+      password: $2b$12$YwJKPmekLrInG/amGdK8geyiy8D75kQV6Swrt/P8CdDMDT0RhpNtO
+    samuelchu:
+      email: samuel.chu@singlife.com
+      name: Samuel Chu
+      password: $2b$12$YwJKPmekLrInG/amGdK8geyiy8D75kQV6Swrt/P8CdDMDT0RhpNtO
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
