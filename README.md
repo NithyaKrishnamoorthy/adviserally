@@ -71,12 +71,7 @@ This repository is linked with Streamlit Community Cloud. Visit the deployed str
 - [ ] add few-shot prompting 
 - [ ] add more pdfs
 
-## Contributors
 
-- **[Traci](mailto:longwind48@gmail.com)**: 
-- **[Ghassen](mailto:ghassen_chniti@singlife.com)**: 
-
-*Special thanks to all the contributors who made this project possible!*
 
 ## License
 
